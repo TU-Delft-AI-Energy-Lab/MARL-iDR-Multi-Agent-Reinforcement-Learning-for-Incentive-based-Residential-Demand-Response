@@ -1,6 +1,6 @@
 # Case study for MARL-iDR-Multi-Agent-Reinforcement-Learning-for-Incentive-based-Residential-Demand-Response
 
-This repository contains the code for the most recent versions of the model for the paper:
+This repository contains code for the paper:
 
 *Jasper van Tilburg, Luciano C. Siebert, Jochen L. Cremer, "MARL-iDR: Multi-Agent Reinforcement Learning for Incentive-based Residential Demand Response" to appear at IEEE PowerTech 2023, Belgrade, Serbia*
 
