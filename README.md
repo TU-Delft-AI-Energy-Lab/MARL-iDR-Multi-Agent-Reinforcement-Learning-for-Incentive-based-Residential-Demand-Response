@@ -5,9 +5,7 @@ This repository contains the code for the most recent versions of the model for 
 *Jasper van Tilburg, Luciano C. Siebert, Jochen L. Cremer, "MARL-iDR: Multi-Agent Reinforcement Learning for Incentive-based Residential Demand Response" to appear at IEEE PowerTech 2023, Belgrade, Serbia*
 
 ## Data
-This repository includes only placeholder Excel files in /data which includes the first and last data samples. The full data that was used in the case studies in our paper can be downloaded from 
-
-* “Pecan Street Inc.” [Online]. Available: https://www.pecanstreet.org/ *
+This repository includes only placeholder Excel files in /data which includes the first and last data samples. The full data that was used in the case studies in our paper can be downloaded from “Pecan Street Inc.” [Online]. Available: https://www.pecanstreet.org/ *
 
 ## License
    
