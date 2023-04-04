@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "van Tilburg"
+  given-names: "Jasper"
+- family-names: "Siebert"
+  given-names: "Luciano Cavalcante"
+  orcid: "https://orcid.org/0000-0002-7531-3154"
+- family-names: "Lorenz Cremer"
+  given-names: "Jochen"
+  orcid: "https://orcid.org/0000-0001-9284-5083"
+title: "Study Case for MARL-iDR: Multi-Agent Reinforcement Learning for Incentive-based Residential Demand Response"
+url: "https://github.com/TU-Delft-AI-Energy-Lab/MARL-iDR-Multi-Agent-Reinforcement-Learning-for-Incentive-based-Residential-Demand-Response"
+preferred-citation:
+  type: conference-paper
+  authors:
+- family-names: "van Tilburg"
+  given-names: "Jasper"
+- family-names: "Siebert"
+  given-names: "Luciano Cavalcante"
+  orcid: "https://orcid.org/0000-0002-7531-3154"
+- family-names: "Lorenz Cremer"
+  given-names: "Jochen"
+  orcid: "https://orcid.org/0000-0001-9284-5083"
+  title: "MARL-iDR: Multi-Agent Reinforcement Learning for Incentive-based Residential Demand Response"
+  collection-title: "Proceedings of the IEEE PowerTech"
+  year: 2023
+conference: 
+- name: IEEE PowerTech
+- city: Belgrade
+- country: Serbia
