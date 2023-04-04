@@ -1,21 +1,34 @@
-cff-version: 1.0.0
-message: "If you use this software, please cite it as below."
-references: 
- - type: conference-paper
-   authors:
-  - family-names: "van Tilburg"
-    given-names: "Jasper"
-  - family-names: "Siebert"
-    given-names: "Luciano Cavalcante"
-    orcid: "https://orcid.org/0000-0002-7531-3154"
-  - family-names: "Lorenz Cremer"
-    given-names: "Jochen"
-    orcid: "https://orcid.org/0000-0001-9284-5083"
-title: "MARL-iDR: Multi-Agent Reinforcement Learning for Incentive-based Residential Demand Response"
-url: "https://github.com/TU-Delft-AI-Energy-Lab/MARL-iDR-Multi-Agent-Reinforcement-Learning-for-Incentive-based-Residential-Demand-Response"
-  collection-title: "Proceedings of the IEEE PowerTech"
-  year: 2023
-conference: 
-- name: IEEE PowerTech
-  city: Belgrade
-  country: Serbia
+cff-version: 1.2.0
+title: >-
+  Case study for
+  MARL-iDR-Multi-Agent-Reinforcement-Learning-for-Incentive-based-Residential-Demand-Response
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Jasper
+    family-names: 'van Tilburg '
+    affiliation: University of Technology Delft
+  - given-names: Luciano Cavalcante
+    family-names: Siebert
+    email: L.CavalcanteSiebert@tudelft.nl
+    affiliation: University of Technology Delft
+    orcid: 'https://orcid.org/0000-0002-7531-3154'
+  - given-names: Jochen L.
+    family-names: Cremer
+    email: j.l.cremer@tudelft.nl
+    affiliation: University of Technology Delft
+    orcid: 'https://orcid.org/0000-0001-9284-5083'
+repository-code: >-
+  https://github.com/TU-Delft-AI-Energy-Lab/MARL-iDR-Multi-Agent-Reinforcement-Learning-for-Incentive-based-Residential-Demand-Response
+abstract: >-
+  This repository contains the code for the most recent
+  versions of the model for the paper:
+  Jasper van Tilburg, Luciano C. Siebert, Jochen L. Cremer,
+  "MARL-iDR: Multi-Agent Reinforcement Learning for
+  Incentive-based Residential Demand Response" to appear at
+  IEEE PowerTech 2023, Belgrade, Serbia
+keywords:
+  - Reinforcement Learning
+  - Energy Community
+  - Demand Response
+license: MIT
